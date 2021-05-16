@@ -1,0 +1,17 @@
+powershell
+en la carpeta donde esta tu archivo .py
+ comando :
+python -m venv ruta_donde_esta_archivo.py\venv enter
+(esto creara la carpeta con todos los plugins que debe tener numpy y matplolib)
+terminal :
+(llamas una new terminal )
+pip install matplotlib
+pin install numpy
+
+confirmas en cmd que esten instaladas 
+con 
+pip install matplotlib
+pip install numpy 
+
+creas un archivo nuevo 
+y trabaja 
